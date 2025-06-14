@@ -1,1 +1,1 @@
-# CPU-Scheduler-Algorithm-Simulator-Performance-Evaluator
+# CPU Scheduler: Algorithm Simulator & Performance Evaluator
