@@ -1,0 +1,59 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore backup or temporary files
+*~
+*.swp
+*.tmp
+*.log
+
+# Ignore Code::Blocks project files
+*.depend
+*.layout
+*.cbp
+*.layout.save
+*.depend.save
+
+# Ignore Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.ncb
+*.suo
+*.user
+*.aps
+*.pch
+*.idb
+*.ipch
+
+# Ignore CMake build directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+Build/
+bin/
+debug/
+Debug/
+release/
+Release/
+
+# Ignore CLion IDE folders
+.idea/
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore generated Gantt chart text/images/logs (if you ever export)
+*.png
+*.jpg
+*.svg
+*.pdf
